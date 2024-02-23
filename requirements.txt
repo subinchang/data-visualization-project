@@ -4,7 +4,6 @@ pandas
 seaborn
 plotly
 scikit-learn
-PIL
 networkx
 pyvis
 streamlib
