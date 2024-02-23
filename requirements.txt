@@ -6,4 +6,3 @@ plotly
 scikit-learn
 networkx
 pyvis
-streamlib
