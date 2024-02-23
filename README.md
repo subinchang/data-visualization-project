@@ -1,5 +1,4 @@
-# data_visualization
-This is a repository for my first data visualization project.
-
-You can get the data files from this link:
-https://drive.google.com/drive/folders/1womBmnKb3NMRVg9AjUACmhJBTOO_m4n5?usp=sharing
+# 멜론 플레이리스트 시각화 프로젝트
+멜론 플레이리스트 데이터를 바탕으로 시각화 대시보드를 구축하였습니다.
+과거 진행되었던 대회에서 제공된 데이터를 사용하였으나 현재 원본이 삭제되어 위 파일에 데이터는 없는 점 양해 부탁드립니다.
+자세한 내용은 멜론플레이리스트_streamlit.pdf 와 멜론플레이리스트_발표.pdf 파일을 확인해주세요.
